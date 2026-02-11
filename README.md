@@ -1,3 +1,1 @@
-# web_task_3_infra
-# web_task_3_infra
-# web_task_3_infra
+Terraform file to create the AWS infrastructure.
